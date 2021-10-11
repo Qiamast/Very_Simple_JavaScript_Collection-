@@ -2,7 +2,7 @@
 
 #### is a JavaScript script to real time Validate of user input
 
-![Real time Input validation](/src/img/JSCode.png "Real time Input validation - Code")
+![Real time Input validation](src/img/JSCode.png "Real time Input validation - Code")
 
 
 
@@ -14,4 +14,4 @@
 4. find `Real time Input validation` directory
 5. open `index.html` with LiveServer
 6. Now you Can see that
-7. ![on the big screen](/assets/big-display.png " Real time Input validation on the big screen")
+7. ![on the big screen](src/img/output.png " Real time Input validation on the big screen")
