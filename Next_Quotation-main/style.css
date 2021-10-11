@@ -1,0 +1,59 @@
+@font-face {
+    font-family: theme-font;
+    src:url("/assets/fonts/MM-Hekayat.ttf")
+}
+
+body{
+    font-family: theme-font;
+    direction: rtl;
+    background-color: white;
+    color: whitesmoke;
+}
+.container{
+    background-color: crimson ;
+    padding: 15px;
+    margin: 50px 15%;
+    font-size: 28px;
+    border-radius: 18px;
+    border-top: 10px solid tomato;
+
+}
+#quote{
+    text-align: center;
+    padding: 10px 20px;
+    margin: 2% 3%;
+    height: 80px;
+    width: 80%;
+
+}
+.auther{
+    padding-top: 50px;
+    text-align: center;
+    font-size: 24px;
+
+}
+#quote-icon-top{
+    font-size: 20px;
+    float: right;
+    padding: 0px 12px 0px 0px;
+}
+.next-quote{
+    border: unset;
+    font-family: inherit;
+    color: inherit;
+    background-color: tomato;
+    padding: 6px 18px;
+    cursor: pointer;
+    border-radius: 18px;
+    float: left;
+    font-size: 18px;
+    transition: background-color 1s , color 1s;
+}
+.next-quote:hover{
+    border: 1px solid tomato;
+    background-color: white;
+    color: tomato;
+    font-size: 18px;
+
+}
+
