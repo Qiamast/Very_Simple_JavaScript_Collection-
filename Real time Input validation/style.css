@@ -1,0 +1,33 @@
+body{
+    margin: 25px;
+    font-family: monospace;
+}
+
+div{
+    margin-top:10%;
+    vertical-align: middle;
+}
+
+#info{
+    text-align: right;
+    color: rgba(0, 0, 0, 0.800);
+
+}
+#input_box{
+    border: none;
+    background-color: white;
+    padding: 8px;
+    text-align: center;
+    border: 1px solid coral;
+    margin-right: 20px;
+    border-radius: 60px;
+    font-family: inherit;
+    float: right;
+
+}
+#message_box{
+    position: relative;
+    font-size: 11px;
+    color: rgba(0, 0, 0, 0.705);
+    text-align: center;
+}
